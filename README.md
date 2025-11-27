@@ -52,8 +52,8 @@ This project is an interactive Excel dashboard created to analyze mutual fund pe
 
 - Slicers & Interactive Filters
 
-Conditional Formatting
+- Conditional Formatting
 
-Lookup Formulas (VLOOKUP, XLOOKUP, IF)
+- Lookup Formulas (VLOOKUP, XLOOKUP, IF)
 
-Advanced Dashboard Design
+- Advanced Dashboard Design
