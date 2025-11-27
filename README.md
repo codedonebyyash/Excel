@@ -1,8 +1,11 @@
 This project is based on analyzing and visualizing mutual fund performance using advanced Excel tools. The dataset includes fund name, category, NAV, returns, AUM, risk metrics, and asset allocation. The main purpose of this project is to create an interactive dashboard that helps investors easily compare and evaluate mutual funds using key financial indicators.
 
 Key Objectives:-
+
 Clean, organize, and prepare the raw mutual fund dataset for analysis.
+
 Calculate key metrics such as 1-year, 3-year, and 5-year returns, AUM trends, and category-wise performance.
+
 Build an interactive Excel dashboard to present insights in a clear and user-friendly manner.
 Compare mutual fund categories, top performers, and risk–return ratios through visual charts.
 
