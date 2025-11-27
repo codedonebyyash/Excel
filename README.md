@@ -1,31 +1,59 @@
-This project is based on analyzing and visualizing mutual fund performance using advanced Excel tools. The dataset includes fund name, category, NAV, returns, AUM, risk metrics, and asset allocation. The main purpose of this project is to create an interactive dashboard that helps investors easily compare and evaluate mutual funds using key financial indicators.
+📊 Mutual Funds Excel Dashboard
 
-Key Objectives:-
+📌 Project Overview
 
-Clean, organize, and prepare the raw mutual fund dataset for analysis.
+This project is an interactive Excel dashboard created to analyze mutual fund performance using key financial metrics. It helps users understand returns, compare fund categories, track AUM trends, and make informed investment decisions. The dashboard is clean, professional, and built using advanced Excel data-analysis tools.
 
-Calculate key metrics such as 1-year, 3-year, and 5-year returns, AUM trends, and category-wise performance.
+🎯 Objectives
 
-Build an interactive Excel dashboard to present insights in a clear and user-friendly manner.
-Compare mutual fund categories, top performers, and risk–return ratios through visual charts.
+Analyze mutual fund data accurately
 
-Tools & Technologies Used:-
+Compare performance across categories and fund types
+
+Calculate key return metrics (1-year, 3-year, 5-year)
+
+Present insights through an interactive Excel dashboard
+
+Demonstrate strong skills in financial analysis and Excel dashboarding
+
+📊 Key Features
+
+Dynamic Pivot Tables for fund-wise and category-wise analysis
+
+Interactive Slicers (Category, Fund Type, Risk Level, Year)
+
+Professional Pivot Charts for returns, AUM, and comparisons
+
+Automated KPI cards (Top Funds, Avg Returns, AUM Growth)
+
+Clean and structured dashboard layout
+
+Includes raw data, cleaned dataset, analysis sheets, and final dashboard
+
+📈 Insights Provided
+
+Top-performing mutual funds across categories
+
+1Y/3Y/5Y return comparison
+
+AUM and risk-return patterns
+
+Category-wise growth and performance trends
+
+Investor-friendly insights for better decision-making
+
+🛠️ Tools & Techniques Used
+
 Microsoft Excel
-Power Query for data cleaning
-Pivot Tables and Pivot Charts
-Slicers and Timelines for interactivity
-VLOOKUP/XLOOKUP, IF statements, and other formulas
-Conditional Formatting for trend highlighting
-Dashboard Techniques
-KPI Cards
-Trend & Comparison Charts
-Category-wise Visual Analysis
-Interactive Filters
 
-Project Outcomes
-A cleaned and consolidated mutual fund dataset ready for analysis.
-An interactive and dynamic dashboard for comparing multiple mutual funds.
+Power Query (Data Cleaning & Transformation)
 
-Clear insights into top-performing funds, category performance, and return behavior.
+Pivot Tables & Pivot Charts
 
-Improved understanding of Excel-based data analysis and financial decision-making.
+Slicers & Interactive Filters
+
+Conditional Formatting
+
+Lookup Formulas (VLOOKUP, XLOOKUP, IF)
+
+Advanced Dashboard Design
